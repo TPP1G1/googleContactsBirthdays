@@ -22,3 +22,10 @@ In Germany sometimes the birthdays of Google Contacts are not shown in the calen
 - Compares contacts birthdays with calendar events
 - Creates recurring birthday events in the Calendar for not existing contact birthdays
 - If year is included, it is added to the event title
+
+
+## ToDo
+- Activate reminders for the events
+ 
+## Known Issues
+- When creating a new calendar, you might need to activate the sync for this calandar in the google calendars app before you can see the events
