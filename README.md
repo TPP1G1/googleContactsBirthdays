@@ -18,7 +18,7 @@ In Germany sometimes the birthdays of Google Contacts are not shown in the calen
 
 ## Features
 - Extract Birthdays from Google Contacts
-- Create Googel Calendear "Geburtstage Skript" if not already existing
+- Create Google Calendar "Geburtstage Skript" if not already existing
 - Compares contacts birthdays with calendar events
 - Creates recurring birthday events in the Calendar for not existing contact birthdays
 - If year is included, it is added to the event title
