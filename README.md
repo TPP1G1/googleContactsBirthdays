@@ -8,6 +8,7 @@
 In Germany sometimes the birthdays of Google Contacts are not shown in the calender "Geburtstage" anymore. This script protects the Google User from forgetting important birthdays by restoring this functionality.
 
 ## Use of the script
+- Create backup of all your calendars and contacts in your google account
 - Create new project on: https://script.google.com/
 - Add Services: People, Contacts
 - Create Script File
