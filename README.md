@@ -10,7 +10,7 @@ In Germany sometimes the birthdays of Google Contacts are not shown in the calen
 ## Use of the script
 - Create backup of all your calendars and contacts in your google account
 - Create new project on: https://script.google.com/
-- Add Services: People, Contacts
+- Add Services: Peopleapi (v1), Google Calendar API (v3)
 - Create Script File
 - Copy Code from `Code2.gs` to this file
 - Save
