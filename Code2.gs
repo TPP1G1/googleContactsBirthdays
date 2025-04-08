@@ -15,6 +15,7 @@ function compareCalendarWithContacts() {
 
   // Abrufen der Geburtstagsdaten aus den Google-Kontakten
   var contacts = listAllConnectionNames();
+  var missingBirthdays = [];
 
   // Durchlaufen der Kontakte und Vergleich mit den Kalenderereignissen
   for (var i = 0; i < contacts.length; i++) {
@@ -23,8 +24,7 @@ function compareCalendarWithContacts() {
 
     // Suche nach dem Kontaktnamen in den Kalenderereignissen
     var matchFound = false;
-    var missingBirthdays = [];
-
+    
     events.forEach(function (event) {
       var eventName = event.getTitle();  // Name des Kalenderereignisses
 
